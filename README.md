@@ -1,10 +1,24 @@
 # Simple vue recipe app:
 
-## Requirements:
+Create a simple recipe app
+
+## Recipe requirements
+A recipe should include following information:
+- Title
+- Description
+- Ingredients
+- Pictures
+- Recipe
+- Author
+- Date created
+- Category
+
+## App requirements:
+The app needs to be able to:
 - Create a new recipe
 - Show a recipe
 - Show a list of recipes
-- Search for recipe categories and title
+- Search for recipe categories, titles and ingredients
 
 ## Bonus:
 The app is offline capable and saves the recipes in browser
