@@ -1,6 +1,13 @@
-# vue-test
+# Simple vue recipe app:
 
-This template should help get you started developing with Vue 3 in Vite.
+## Requirements:
+- Create a new recipe
+- Show a recipe
+- Show a list of recipes
+- Search for recipe categories and title
+
+## Bonus:
+The app is offline capable and saves the recipes in browser
 
 ## Recommended IDE Setup
 
